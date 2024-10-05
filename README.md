@@ -1,5 +1,26 @@
 # C Versão Brasileira Herbert Richers!
 
+# Pré-Requisito
+
+## Instalação
+
+## É Necessário baixar o arquivo "c-ptBr.h" e inserí-lo na pasta desejada que estará com o principal em C:
+
+<a href='https://github.com/Darksigue/Biblioteca-C-ptBr/blob/main/c-ptBr.h'> Link de Instalação</a>
+
+Ou
+
+```
+https://github.com/Darksigue/Biblioteca-C-ptBr/blob/main/c-ptBr.h
+```
+
+## Pode-se também utilizar o comando de clonagem:
+
+```shell
+git clone "https://github.com/Darksigue/Biblioteca-C-ptBr"
+```
+
+
 ## 1. Pré-Processamento
 
 ### 1.1 Adicione a biblioteca no pré-processamento do seu código, para isso utilize a seguinte instrução: 

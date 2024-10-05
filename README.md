@@ -105,14 +105,17 @@ int main(){
 - **externo** → extern
 - **extenso** → long
 - **curto** → short
+- **estatico** → static
 - **vazio** → void
 
 ##
 
 ### ❗ Condicionais
+- **caso** → case
 - **se** → if
 - **senao** → else
 - **padrao** → default
+- **seletor** → switch
 
 ##
 
@@ -138,6 +141,10 @@ int main(){
 - **vezes** → *
 - **dividido** → /
 - **resto** → %
+- **incremento** → +=
+- **decremento** → -=
+- **multmento** → *=
+- **divmento** → /=
 
 ##
 
@@ -146,6 +153,7 @@ int main(){
 - **definicaoDe** → typeof
 - **estrutura** → struct
 - **uniao** → union
+- **associado** → inline
 
 ##
 
@@ -155,15 +163,19 @@ int main(){
 - **quebra** → break
 - **continua** → continue
 - **retorne** → return
-- **seletor** → switch
 - **verdadeiro** → true
 - **falso** → false
 - **enderecoDe** → &
 - **registrar** → register
 - **volatil** → volatile
-- **estatico** → static
 - **ponteiroNulo** → nullptr
-- **associado** → inline
+- **alinhaComo** → alignas
+- **alinhaDo** → alignof
+- **aumenta** → double
+- **automatico** → auto
+- **restrito** → restrict
+- **sinalizado** → signed
+- **tamanhoDo** → sizeof
 
 ## Objetivo
 
